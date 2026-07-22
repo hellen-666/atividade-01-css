@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Modern+Antiqua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grenze:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+strong{
+    color: saddlebrown;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+}
+
+body{
+    background-image: url("../imagens/attack-on-titan-4k-wall-emblem-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.cartao{
+    background-color: #f4ede2;
+    max-width: 800px;
+    margin: 40x auto;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.7);
+    border: 2px solid #3a2e2b;
+    color: #2b2b2b;
+    text-align: center;
+}
+.cartao p{
+    text-align: justify;
+    line-height: 1,6;
+}
+.cartao ul{
+    text-align: left;
+    line-height: 1,6;
+
+}
+h1{
+    font-family: "Modern Antiqua", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+p{
+    font-family: "Grenze", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 18px;
+
+}
+li{
+    font-family: "Grenze", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 18px;
+
+}
+
+img {
+    border: 3px solid #3a2e2b;
+    border-radius: 3px;
+}
+.sem-borda{
+    border: none;
+}
